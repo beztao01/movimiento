@@ -9,9 +9,9 @@ a{
 }
 
 li{
-    border-radius: 10px;
     padding: 10px;
     margin: 10px;
+    border-radius: 10px;
     background-color: aqua;
     list-style:none;
     text-decoration: none;
